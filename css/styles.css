@@ -132,6 +132,7 @@ html {
 .wrapper .column .inner {
   background-size: cover;
   background-position: center;
+  
 }
 .wrapper .column:nth-child(1) .inner {
   background-image: url('https://igcdn-photos-b-a.akamaihd.net/hphotos-ak-xfa1/t51.2885-15/11055800_1556880671238497_1776548525_n.jpg');
@@ -176,5 +177,5 @@ html {
 .foto {
   background-image: url('https://source.unsplash.com/b_8eErngWm4/1200x350');
   background-size: cover;
-  
+
 }
